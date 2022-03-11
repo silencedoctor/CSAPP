@@ -1,0 +1,3 @@
+/Users/lengkejun/src/my/CSAPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lengkejun/src/my/CSAPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lengkejun/src/my/CSAPP/cmake-build-debug/CMakeFiles/CSAPP.dir
